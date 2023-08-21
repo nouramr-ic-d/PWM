@@ -1,7 +1,7 @@
 # PWM
 pulse with modulation(PWM) , which is a technique to control the amount of power you provide to certain analog devices.
 
-- Pulse-Width Modulation, or PWM is a very common technique that varies the width of the pulses in a pulse-train. PWM has a few applications, the main ones are for controlling things like servos and speed controllers and limiting the effective power for things like motors and LEDs. This tutorial will cover how to use PWM to change the brightness of an LED. 
+- Pulse-Width Modulation, or PWM is a very common technique that varies the width of the pulses in a pulse-train. PWM has a few applications, the main ones are for controlling things like servos and speed controllers and limiting the effective power for things like motors and LEDs.  
 # This design depend on 
 - Duty cycle
 - Resolution
