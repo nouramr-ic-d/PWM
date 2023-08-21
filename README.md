@@ -10,5 +10,5 @@ pulse with modulation(PWM) , which is a technique to control the amount of power
 -up counter(R-bit)
 -simple small combinational circuit which is just comparator : tells me if the inputs from the counter is actually less than comparator.
 -duty cycle : is proportion of time that signal stays in the ON position versus the total period of the whole signal.
--Timer : to control frequency of up counter 
+-Timer : to control frequency of up counter .
 - D FF : to avoid glitches
